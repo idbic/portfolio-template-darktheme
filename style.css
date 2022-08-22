@@ -1,0 +1,37 @@
+.black,
+.hover-black:hover {
+    color: #fff !important;
+    background-color: #000 !important
+}
+
+.sidebar {
+    height: 100%;
+    width: 200px;
+    background-color: #fff;
+    position: fixed !important;
+    z-index: 1;
+    overflow: auto
+}
+
+.bar-block .bar-item {
+    width: 100%;
+    display: block;
+    padding: 8px 16px;
+    text-align: left;
+    border: none;
+    white-space: normal;
+    float: none;
+    outline: 0
+}
+
+.small {
+    font-size: 12px !important
+}
+
+/* .hide-small {
+    display: none !important
+} */
+
+.center {
+    text-align: center !important
+}
